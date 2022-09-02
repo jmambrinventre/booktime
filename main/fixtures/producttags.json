@@ -1,0 +1,20 @@
+[
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Aperitivo",
+    "slug": "aperitivo",
+    "description": "",
+    "active": true
+  }
+},
+{
+  "model": "main.producttag",
+  "fields": {
+    "name": "Cervezas",
+    "slug": "cervezas",
+    "description": "-",
+    "active": true
+  }
+}
+]
